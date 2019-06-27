@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/github.com/knative/eventing/cmd/in_memory/dispatcher@sha256:345888cb32ce69a45165e02fc87ebfde903fd1d9dfe059892289d66b779e6bee
+MAINTAINER beijixiong12138@163.com

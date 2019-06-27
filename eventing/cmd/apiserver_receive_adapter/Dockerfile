@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/github.com/knative/eventing/cmd/apiserver_receive_adapter@sha256:f18cdbc3c3077ece8505a4f4c49055e6c1c577e9fa42446f0f81193e48aa1d60
+MAINTAINER beijixiong12138@163.com
